@@ -4,6 +4,7 @@
 
 # Requirements
   Smbclient needs to be installed for the script to run
+  
   https://www.samba.org/samba/download/
   
 # Usage
