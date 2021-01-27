@@ -10,6 +10,9 @@
 # Usage
   ./smbtest.sh x.x.x.x
 
+# Suggestions
+  If you have any suggestions, additions, or comments about the code feel free to email me at cwbyducky@gmail.com
+
 # Credit
   The Project was created due to not needing ShawnDEvans full smbmap.
   But just a quick check of Read/Write using bash.
